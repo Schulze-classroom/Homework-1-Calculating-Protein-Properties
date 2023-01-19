@@ -12,6 +12,6 @@ Tasks and output files
 6)	Create (or modify) a README file describing how to run your code. Include requirements (e.g. Python packages that need to be installed) in that description, or as a separate requirements.txt file.
 7)	Commit all your input files, scripts, and result files to your GitHub Classroom repository.
 # Submission
-You must submit the assignment through GitHub Classroom by 8 am February 26 to get full credit. 
+You must submit the assignment through GitHub Classroom by 8 am January 26 to get full credit. 
 # Bonus Credit
 8)	Use a prediction tool (e.g. DeepTMHMM, or SignalP 6) to predict the localization/secretion of all proteins in the proteome. Based on these results, group the proteome into categories (e.g. cytosolic, membrane, secreted, …) and compare the hydrophobicity distributions for each of those categories by plotting them together.
